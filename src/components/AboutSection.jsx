@@ -39,7 +39,7 @@ const AboutSection = () => {
                 Former Chess Instructor @ <a target="_blank" href="https://www.fiverr.com/alexmihoc/help-you-with-your-chess-game/">Fiverr</a>
                 <br />
 
-                <a target="_blank" href="resume.pdf">
+                <a target="_blank" href="cv.pdf">
                   Download Resume
                 </a>
               </p>
