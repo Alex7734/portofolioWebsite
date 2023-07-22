@@ -51,7 +51,7 @@ const ContactSection = () => {
           <input className="input-field" type="email" name="user_email" />
           <label>Message</label>
           <textarea className="input-field" name="message"></textarea>
-          <input id="submit-btn" type="submit" value="Send" />
+          <input style={{cursor: "pointer"}} id="submit-btn" type="submit" value="Send" />
         </form>
       </div>
     </section>

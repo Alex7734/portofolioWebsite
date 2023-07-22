@@ -1,17 +1,16 @@
 import React from "react";
-import IntroSection from "./components/IntroSection";
-import AboutSection from "./components/AboutSection";
-import ContactSection from "./components/ContactSection";
-import ProjectsSection from "./components/ProjectsSection";
+import Main from "./components/Main";
+import ProjectDetail from "./components/ProjectDetail";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <>
-      <IntroSection />
-      <AboutSection />
-      <ProjectsSection />
-      <ContactSection />
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Main />} />
+        <Route path="/projects/:id" element={<ProjectDetail />} />
+      </Routes>
+    </Router>
   );
 };
 

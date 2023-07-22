@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Project 1",
+      "description": "This is project 1 description.",
+      "thumbnail": "https://source.unsplash.com/random/400x200",
+      "githubLink": "https://github.com/yourusername/project1"
+    },
+    {
+      "title": "Project 2",
+      "description": "This is project 2 description.",
+      "thumbnail": "https://source.unsplash.com/random/400x200",
+      "githubLink": "https://github.com/yourusername/project2"
+    }
+  ]
+  
