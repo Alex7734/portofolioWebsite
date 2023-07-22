@@ -36,7 +36,7 @@ const AboutSection = () => {
                 <br />
                 Treasurer @ Rotaract Sighisoara
                 <br />
-                Chess Instructor @ <a target="_blank" href="https://www.fiverr.com/alexmihoc/help-you-with-your-chess-game/">Fiverr</a>
+                Former Chess Instructor @ <a target="_blank" href="https://www.fiverr.com/alexmihoc/help-you-with-your-chess-game/">Fiverr</a>
                 <br />
 
                 <a target="_blank" href="resume.pdf">
