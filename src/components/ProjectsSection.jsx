@@ -7,8 +7,9 @@ const ProjectsSection = () => {
     <section className="s1" id="projects">
       <div className="main-container">
         <h3 style={{ textAlign: "center" }}>Some of my past projects</h3>
-        <div className="post-wrapper">
-          <h3 style={{textAlign: "center"}}>Coming soon...</h3>
+        <div className="post-wrapper" style={{justifyContent: "column"}}>
+          <h3 style={{textAlign: "center"}}>Coming soon...<br />
+           <a href="https://github.com/Alex7734">Github</a></h3>
           {/* {projectsData.map((project, index) => (
             <div key={index} className="post">
               <img

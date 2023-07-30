@@ -30,9 +30,9 @@ const AboutSection = () => {
               </p>
               <hr />
               <p>
-                Student @{" "}
+                Computer Engineering Student @{" "}
                 <a target="_blank" href="https://www.utcluj.ro/">
-                  Technical University of Cluj-Napoca
+                  TUCN
                 </a>
                 <br />
                 Junior Mobile Developer @{" "}
@@ -43,6 +43,16 @@ const AboutSection = () => {
                 President @ Club Sportiv Hara Sighisoara
                 <br />
                 Treasurer @ Rotaract Sighisoara
+                <br />
+                Former President @{" "}
+                <a target="_blank" href="https://www.instagram.com/interact_sighisoara/">
+                  Interact Sighisoara
+                </a>
+                <br />
+                Former IT Service Coordinator @{" "}
+                <a target="_blank" href="https://www.instagram.com/osutcluj/">
+                  OSUT Cluj
+                </a>
                 <br />
                 Former Chess Instructor @{" "}
                 <a
